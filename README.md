@@ -3,7 +3,7 @@
 [![Licence](https://img.shields.io/badge/licence-GPL--2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.en.html)
 
 
-##Australian Demographic Data Base
+## Australian Demographic Data Base
 
 An R package containing state-level demographic data for Australia.
 To be used in conjunction with the `demography` package.
