@@ -12,3 +12,13 @@ To be used in conjunction with the `demography` package.
   * Smith, L. (2009) _The Australian Demographic Data Bank, 1901-2003: Deaths_ [Computer File]. Canberra: Australian Social Science Data Archive, The Australian National University, 2009.
 
 Thanks to Len Smith for providing the data.
+
+
+## Installation
+
+You can install this package using
+
+``` r
+# install.packages("remotes")
+remotes::install_github("robjhyndman/addb")
+```
